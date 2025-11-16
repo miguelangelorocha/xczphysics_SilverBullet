@@ -4,7 +4,7 @@
 
 1. Type `!!` followed by a natural language date
 2. A completion popup appears with your parsed dates or quick options (today/tomorrow/yesterday)
-3. Examples:
+4. Examples:
   * `!!tomorrow` → Shows tomorrow's date with `[tomorrow]` label
   * `!!next friday 2pm` → Shows next Friday at 2 PM with time
   * `!!next thu` → Parses to next Thursday, then typing `2pm` updates it
