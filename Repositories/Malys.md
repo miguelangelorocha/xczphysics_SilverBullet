@@ -105,3 +105,5 @@ website: https://github.com/malys/silverbullet-libraries/blob/main/src/VSCodePal
 description: "universal palette (as VScode Palette), use '>' to execute commands"
 ---
 ```
+
+
